@@ -1,0 +1,14 @@
+{
+  "breakpoint-max": {
+    "$type": "number",
+    "$value": 1920
+  },
+  "breakpoint-medium": {
+    "$type": "number",
+    "$value": 1680
+  },
+  "breakpoint-min": {
+    "$type": "number",
+    "$value": 1280
+  }
+}
